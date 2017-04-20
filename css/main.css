@@ -1,0 +1,199 @@
+.estilo-div{
+  width: 18.5%;
+  height: 317px;
+  display: inline-block;
+  background-color: #F8F9F9;
+  box-shadow: 18px 10px 14px -8px #CECECE;
+  float: left;
+  -webkit-transition: all 1s ease;
+  -o-transition:  all 1s ease;
+  -moz-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.estilo-div:hover{
+  padding-top: 20px;
+  color: white;
+  background-color: #fff;
+  -webkit-transform:scale(1.1);
+  color: #2E86C1  ;
+  -webkit-transition: all .0.5s ease-in-out;
+}
+
+#div1{
+  margin-left: 17px;
+  position: relative;
+}
+
+#div2{
+  margin-left: 10px;
+  position: relative;
+}
+#div3{
+  margin-left: 10px;
+  position: relative;
+}
+#div4{
+  margin-left: 10px;
+  position: relative;
+}
+#div5{
+  margin-left: 10px;
+  position: relative;
+}
+#div1 h1{
+  font-size: 19px;
+  font-family: "Playfair Display", serif;
+  margin-left: 42px;
+  position: absolute;
+  margin-top: 119px;
+}
+#div2 h1{
+  font-size: 19px;
+  font-family: "Playfair Display";
+  margin-left: 52px;
+  position: absolute;
+  margin-top: 119px;
+}
+#div3 h1{
+  font-size: 19px;
+  font-family: "Playfair Display";
+  margin-left: 24px;
+  position: absolute;
+  margin-top: 119px;
+}
+#div4 h1{
+  font-size: 19px;
+  font-family: "Playfair Display";
+  margin-left: 48px;
+  position: absolute;
+  margin-top: 119px;
+}
+#div5 h1{
+  font-size: 19px;
+  font-family: "Playfair Display";
+  margin-left: 49px;
+  position: absolute;
+  margin-top: 119px;
+}
+
+#div1 h3{
+  font-size: 12px;
+  font-family: 'Lora', serif;
+  font-family: 'Contrail One', cursive;
+  margin-left: 89px;
+  position: absolute;
+  margin-top: 169px;
+}
+#div2 h3{
+  font-size: 12px;
+  font-family: 'Lora', serif;
+  font-family: 'Contrail One', cursive;
+  margin-left: 55px;
+  position: absolute;
+  margin-top: 169px;
+}
+#div3 h3{
+  font-size: 12px;
+  font-family: 'Lora', serif;
+  font-family: 'Contrail One', cursive;
+  margin-left: 96px;
+  position: absolute;
+  margin-top: 169px;
+}
+#div4 h3{
+  font-size: 12px;
+  font-family:'Lora', serif;
+  font-family: 'Contrail One', cursive;
+  margin-left: 69px;
+  position: absolute;
+  margin-top: 169px;
+}
+#div5 h3{
+  font-size: 12px;
+  font-family:'Lora', serif;
+  font-family: 'Contrail One', cursive;
+  margin-left: 90px;
+  position: absolute;
+  margin-top: 169px;
+}
+#div1 p{
+  font-size: 12px;
+  font-family: "Lora", serif;
+  margin-left: 22px;
+  margin-right: 16px;
+  position: absolute;
+  margin-top: 200px;
+  text-align: center;
+}
+#div2 p{
+  font-size: 12px;
+  font-family:"Lora", serif;
+  margin-left: 22px;
+  margin-right: 16px;
+  position: absolute;
+  margin-top: 200px;
+  text-align: center;
+}
+#div3 p{
+  font-size: 12px;
+  font-family:"Lora", serif;
+  margin-left: 22px;
+  margin-right: 16px;
+  position: absolute;
+  margin-top: 200px;
+  text-align: center;
+}
+#div4 p{
+  font-size: 12px;
+  font-family:"Lora", serif;
+  margin-left: 22px;
+  margin-right: 16px;
+  position: absolute;
+  margin-top: 200px;
+  text-align: center;
+}
+#div5 p{
+  font-size: 12px;
+  font-family:"Lora", serif;
+  margin-left: 22px;
+  margin-right: 16px;
+  position: absolute;
+  margin-top: 200px;
+  text-align: center;
+}
+#div1 span{
+  width: 70px;
+  height: 70px;
+  margin-left: 78px;
+  margin-top: 40px;
+  position: absolute;
+}
+#div2 span{
+  width: 70px;
+  height: 70px;
+  margin-left: 78px;
+  margin-top: 40px;
+  position: absolute;
+}
+#div3 span{
+  width: 70px;
+  height: 70px;
+  margin-left: 78px;
+  margin-top: 40px;
+  position: absolute;
+}
+#div4 span{
+  width: 70px;
+  height: 70px;
+  margin-left: 78px;
+  margin-top: 40px;
+  position: absolute;
+}
+#div5 span{
+  width: 70px;
+  height: 70px;
+  margin-left: 78px;
+  margin-top: 40px;
+  position: absolute;
+}
